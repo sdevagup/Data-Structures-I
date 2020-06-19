@@ -1,0 +1,16 @@
+Champaign
+Chicago
+Cincinnati
+Cleveland
+Detroit
+Indianapolis
+Joliet
+Kankakee
+Louisville
+Madison
+Milwaukee
+Minneapolis
+Nashville
+SaintLouis
+Springfield
+Toledo
